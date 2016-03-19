@@ -1,4 +1,4 @@
-# Cookies interceptor expample
+# Cookies interceptor example
 
 An example Chrome extension that shows how to intercept cookies
 

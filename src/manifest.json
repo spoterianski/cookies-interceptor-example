@@ -1,5 +1,5 @@
 {
-  "name": "Cookies interceptor expample",
+  "name": "Cookies interceptor example",
   "version": "0.1",
   "description": "Example extension for interception cookies",
   "background":{
