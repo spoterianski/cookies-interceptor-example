@@ -1,0 +1,15 @@
+{
+  "name": "Cookies interceptor expample",
+  "version": "0.1",
+  "description": "Example extension for interception cookies",
+  "background":{
+  "scripts":["bg.js"]
+  },
+  "permissions": [
+    "webRequest",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "manifest_version": 2,
+  "homepage_url":"http://poterianski.ru/"
+}
